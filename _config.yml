@@ -42,12 +42,12 @@ footer-links:
   weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: larryliu912@gmail.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: https://github.com/Larryliu912 #https://github.com/<>
   instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
+  linkedin: https://www.linkedin.com/in/chang-liu-b3839115a/
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
@@ -79,7 +79,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /Chang
+baseurl: /larryliu912.github.io
 
 
 #
