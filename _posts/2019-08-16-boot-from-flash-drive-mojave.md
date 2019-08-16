@@ -5,7 +5,7 @@ date: 2019-08-16
 Author: Chang
 categories: 
 
-tags: [macOS Use]
+tags: [macOS]
 
 comments: true
 
